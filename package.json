@@ -1,0 +1,19 @@
+{
+  "name": "modern-chat-app",
+  "version": "1.0.0",
+  "description": "A Real Time Chat Application built using Node.js, Express, Mongoose, Socket.io, Passport, & Redis.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/user1990/modern-chat-app.git"
+  },
+  "author": "user1990",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/user1990/modern-chat-app/issues"
+  },
+  "homepage": "https://github.com/user1990/modern-chat-app#readme"
+}
