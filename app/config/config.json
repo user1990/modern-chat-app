@@ -1,21 +1,21 @@
 {
     "db": {
-        "username": "<MongoDBUsername>",
-        "password": "<MongoDBPassword>",
-        "host": "<MongoDBHost>",
-        "port": "<MongoDBPort>",
-        "name": "<MongoDBName>"
+        "username": "user1990",
+        "password": "test123",
+        "host": "ds127842.mlab.com",
+        "port": "27842",
+        "name": "chat"
     },
     "sessionSecret": "<RandomString>",
     "facebook": {
-        "clientID": "<AppID>",
-        "clientSecret": "<AppSecret>",
+        "clientID": "223988561443248",
+        "clientSecret": "5ce3e3b4ebcf5c64c9334f018d8810db",
         "callbackURL": "/auth/facebook/callback",
         "profileFields": ["id", "displayName", "photos"]
     },
     "twitter": {
-        "consumerKey": "<ConsumerKey>",
-        "consumerSecret": "<ConsumerSecret>",
+        "consumerKey": "z5VrfoaM3Jb8641rgMPK31Lxo",
+        "consumerSecret": "W6HskOX1bup1yZ7VH9tKYAAq5Jdozzs7hckGs4pW4P8NRV1xyc",
         "callbackURL": "/auth/twitter/callback",
         "profileFields": ["id", "displayName", "photos"]
     },
