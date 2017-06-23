@@ -27,7 +27,7 @@ Make sure you have [Node.js](https://nodejs.org/) and [npm](https://www.npmjs.co
 1. Clone or Download the repository
 
 	```
-	$ git clone https://github.com/OmarElGabry/chat.io.git
+	$ git clone https://github.com/user1990/modern-chat-app.git
 	$ cd chat.io
 	```
 2. Install Dependencies
